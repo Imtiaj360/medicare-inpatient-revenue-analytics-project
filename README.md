@@ -1,11 +1,11 @@
-# 🏥 Medicare Inpatient Revenue & Payment Variance Analytics
+# Medicare Inpatient Revenue & Payment Variance Analytics
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![DuckDB](https://img.shields.io/badge/Database-DuckDB-orange?logo=duckdb&logoColor=white)](https://duckdb.org/)
 [![Power BI](https://img.shields.io/badge/Visualization-Power_BI-yellow?logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Industry-Healthcare](https://img.shields.io/badge/Industry-Healthcare-red)](https://www.cms.gov/)
 
-## 📊 Executive Overview
+## Executive Overview
 This project provides an end-to-end data audit of **Medicare Inpatient Hospital** payments. By processing over **146,427 records** from the CMS (Centers for Medicare & Medicaid Services) API, this analysis identifies revenue trends, medical complexity impacts, and systemic payment variances across the United States.
 
 The primary objective was to perform a **Revenue Cycle Management (RCM) audit**, uncovering recovery opportunities where hospitals are significantly underpaid relative to regional benchmarks.
@@ -36,7 +36,7 @@ Developed a multi-page executive dashboard to visualize:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── notebooks/
 │   └── Medicare_Inpatient_Analysis.ipynb  
